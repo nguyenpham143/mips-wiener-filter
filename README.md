@@ -29,10 +29,11 @@ This project implements the end-to-end Wiener filter pipeline at the assembly le
 ├── src/
 │   ├── wiener_filter.asm               # Main MIPS32 Assembly implementation
 │   └── wiener_filter.cpp               # High-level C++17 reference & verification model
-├── specs/
-│   └── CA_Assignment_251.pdf           # Assignment specification document
-├── report/
-│   └── wiener_filter.pdf               # Comprehensive technical report & architecture design
+├── docs/
+│   ├── report/
+│   │   └── wiener_filter.pdf           # Comprehensive technical report & architecture design
+│   └── specs/
+│       └── CA_Assignment_251.pdf       # Assignment specification document
 ├── tools/
 │   └── Mars4_5.jar                     # MARS (MIPS Assembler and Runtime Simulator) v4.5
 ├── tests/
