@@ -1,2 +1,12 @@
-.vscode
-.exe
+# Compiled binaries and temporary outputs
+*.exe
+*.o
+*.obj
+wiener_filter
+output.txt
+
+# Editor & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
