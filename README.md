@@ -88,8 +88,6 @@ Developed by **Group 06** (Class CC06) — Faculty of Computer Science and Engin
 | **Dinh Phuc Khang** | 2452453 | Linear system solver, Wiener filter coefficient computation, integration, and debugging. |
 | **Nguyen Xuan An** | 2452023 | Technical report writing, system flowcharts, diagram preparation, and documentation. |
 
-- **Advisor:** Nguyen Thien An
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
